@@ -1,0 +1,3 @@
+This is just another file from the main branch.
+
+I want to see how to merge projects/branches.
